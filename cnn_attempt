@@ -1,0 +1,104 @@
+import librosa
+import numpy as np
+import os
+from torch.utils.data import Dataset
+import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader
+from torch.optim import Adam
+import torch.nn.functional as F
+from sklearn.model_selection import train_test_split
+
+def extract_logmel(y, sr, n_mels=64, hop_length=256, n_fft=1024):
+    mel_spec = librosa.feature.melspectrogram(y=y, sr=sr, n_mels=n_mels,
+                                               hop_length=hop_length, n_fft=n_fft)
+    log_mel = librosa.power_to_db(mel_spec, ref=np.max)
+    return log_mel.astype(np.float32)  # shape: [n_mels, time]
+
+class IngestiveSoundDataset(Dataset):
+    def __init__(self, file_paths, labels, sr=22050):
+        self.file_paths = file_paths
+        self.labels = labels
+        self.sr = sr
+
+    def __len__(self):
+        return len(self.file_paths)
+
+    def __getitem__(self, idx):
+        y, _ = librosa.load(self.file_paths[idx], sr=self.sr)
+        logmel = extract_logmel(y, self.sr)
+        
+        # Pad/crop to fixed time size (e.g., 128 time frames)
+        if logmel.shape[1] < 128:
+            pad_width = 128 - logmel.shape[1]
+            logmel = np.pad(logmel, ((0, 0), (0, pad_width)), mode='constant')
+        else:
+            logmel = logmel[:, :128]
+        
+        logmel = torch.tensor(logmel).unsqueeze(0)  # shape: [1, 64, 128]
+        label = torch.tensor(self.labels[idx])
+        return logmel, label
+
+class IngestiveCNN(nn.Module):
+    def __init__(self, num_classes=3):
+        super().__init__()
+        self.net = nn.Sequential(
+            nn.Conv2d(1, 32, kernel_size=3, padding=1),  # [B, 32, 64, 128]
+            nn.ReLU(),
+            nn.MaxPool2d(2),                             # [B, 32, 32, 64]
+            nn.Conv2d(32, 64, kernel_size=3, padding=1), # [B, 64, 32, 64]
+            nn.ReLU(),
+            nn.AdaptiveAvgPool2d((1, 1)),                # [B, 64, 1, 1]
+            nn.Flatten(),                                # [B, 64]
+            nn.Linear(64, num_classes)                   # [B, 3]
+        )
+
+    def forward(self, x):
+        return self.net(x)
+
+def train(model, train_loader, val_loader, epochs=10, lr=1e-3):
+    optimizer = Adam(model.parameters(), lr=lr)
+    model.train()
+    for epoch in range(epochs):
+        for xb, yb in train_loader:
+            preds = model(xb)
+            loss = F.cross_entropy(preds, yb)
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+        print(f"Epoch {epoch+1}/{epochs} - Loss: {loss.item():.4f}")
+    evaluate(model, val_loader)
+
+def evaluate(model, loader):
+    model.eval()
+    correct, total = 0, 0
+    with torch.no_grad():
+        for xb, yb in loader:
+            preds = model(xb).argmax(dim=1)
+            correct += (preds == yb).sum().item()
+            total += yb.size(0)
+    acc = correct / total
+    print(f"Validation Accuracy: {acc*100:.2f}%")
+
+# Example usage:
+files = os.listdir("./segmented_audios")
+
+file_paths = [os.path.join("segmented_audios", file) for file in files if file.endswith(".wav")]
+labels_text = [file.split("_")[3] for file in file_paths if file.endswith(".wav")]
+
+label_mapping = {"chew": 0, "bite": 1, "chew-bite": 2}
+
+labels = [label_mapping[label] for label in labels_text]
+
+print(len(file_paths), len(labels))
+
+train_files, val_files, train_labels, val_labels = train_test_split(file_paths, labels, test_size=0.2)
+
+train_ds = IngestiveSoundDataset(train_files, train_labels)
+val_ds = IngestiveSoundDataset(val_files, val_labels)
+
+train_loader = DataLoader(train_ds, batch_size=16, shuffle=True)
+val_loader = DataLoader(val_ds, batch_size=16)
+
+model = IngestiveCNN(num_classes=3)
+train(model, train_loader, val_loader)

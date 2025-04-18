@@ -1,0 +1,488 @@
+recording_01_bite_28.wav
+recording_01_bite_29.wav
+recording_01_bite_30.wav
+recording_01_bite_31.wav
+recording_01_bite_36.wav
+recording_01_bite_39.wav
+recording_01_bite_41.wav
+recording_01_bite_42.wav
+recording_01_bite_45.wav
+recording_01_bite_46.wav
+recording_01_bite_48.wav
+recording_01_bite_51.wav
+recording_01_bite_53.wav
+recording_01_bite_54.wav
+recording_01_bite_55.wav
+recording_01_bite_56.wav
+recording_01_bite_57.wav
+recording_01_bite_58.wav
+recording_01_bite_59.wav
+recording_01_bite_60.wav
+recording_01_bite_61.wav
+recording_01_bite_62.wav
+recording_01_bite_66.wav
+recording_01_bite_67.wav
+recording_01_bite_68.wav
+recording_01_bite_69.wav
+recording_01_bite_70.wav
+recording_01_bite_71.wav
+recording_01_bite_72.wav
+recording_01_bite_73.wav
+recording_01_bite_74.wav
+recording_01_bite_75.wav
+recording_01_bite_76.wav
+recording_01_bite_77.wav
+recording_01_bite_78.wav
+recording_01_bite_79.wav
+recording_01_bite_80.wav
+recording_01_chew-bite_48.wav
+recording_01_chew-bite_49.wav
+recording_01_chew-bite_50.wav
+recording_01_chew-bite_51.wav
+recording_01_chew-bite_52.wav
+recording_01_chew-bite_53.wav
+recording_01_chew-bite_54.wav
+recording_01_chew-bite_55.wav
+recording_01_chew-bite_56.wav
+recording_01_chew-bite_57.wav
+recording_01_chew-bite_58.wav
+recording_01_chew-bite_59.wav
+recording_01_chew-bite_60.wav
+recording_01_chew-bite_61.wav
+recording_01_chew-bite_62.wav
+recording_01_chew-bite_63.wav
+recording_01_chew-bite_64.wav
+recording_01_chew-bite_65.wav
+recording_01_chew-bite_66.wav
+recording_01_chew-bite_67.wav
+recording_01_chew-bite_69.wav
+recording_01_chew-bite_73.wav
+recording_01_chew-bite_83.wav
+recording_01_chew_100.wav
+recording_01_chew_48.wav
+recording_01_chew_49.wav
+recording_01_chew_50.wav
+recording_01_chew_51.wav
+recording_01_chew_52.wav
+recording_01_chew_53.wav
+recording_01_chew_54.wav
+recording_01_chew_55.wav
+recording_01_chew_56.wav
+recording_01_chew_57.wav
+recording_01_chew_58.wav
+recording_01_chew_59.wav
+recording_01_chew_60.wav
+recording_01_chew_61.wav
+recording_01_chew_62.wav
+recording_01_chew_63.wav
+recording_01_chew_64.wav
+recording_01_chew_65.wav
+recording_01_chew_66.wav
+recording_01_chew_67.wav
+recording_01_chew_68.wav
+recording_01_chew_69.wav
+recording_01_chew_70.wav
+recording_01_chew_71.wav
+recording_01_chew_72.wav
+recording_01_chew_73.wav
+recording_01_chew_74.wav
+recording_01_chew_75.wav
+recording_01_chew_76.wav
+recording_01_chew_77.wav
+recording_01_chew_78.wav
+recording_01_chew_79.wav
+recording_01_chew_80.wav
+recording_01_chew_81.wav
+recording_01_chew_82.wav
+recording_01_chew_83.wav
+recording_01_chew_84.wav
+recording_01_chew_85.wav
+recording_01_chew_86.wav
+recording_01_chew_87.wav
+recording_01_chew_88.wav
+recording_01_chew_89.wav
+recording_01_chew_90.wav
+recording_01_chew_91.wav
+recording_01_chew_92.wav
+recording_01_chew_93.wav
+recording_01_chew_94.wav
+recording_01_chew_95.wav
+recording_01_chew_96.wav
+recording_01_chew_97.wav
+recording_01_chew_98.wav
+recording_01_chew_99.wav
+recording_02_bite_114.wav
+recording_02_bite_115.wav
+recording_02_bite_44.wav
+recording_02_bite_46.wav
+recording_02_bite_47.wav
+recording_02_bite_48.wav
+recording_02_bite_53.wav
+recording_02_bite_59.wav
+recording_02_bite_60.wav
+recording_02_bite_61.wav
+recording_02_bite_62.wav
+recording_02_bite_75.wav
+recording_02_bite_76.wav
+recording_02_bite_77.wav
+recording_02_bite_78.wav
+recording_02_bite_79.wav
+recording_02_bite_80.wav
+recording_02_bite_82.wav
+recording_02_bite_85.wav
+recording_02_chew-bite_100.wav
+recording_02_chew-bite_34.wav
+recording_02_chew-bite_35.wav
+recording_02_chew-bite_39.wav
+recording_02_chew-bite_40.wav
+recording_02_chew-bite_41.wav
+recording_02_chew-bite_42.wav
+recording_02_chew-bite_43.wav
+recording_02_chew-bite_44.wav
+recording_02_chew-bite_45.wav
+recording_02_chew-bite_46.wav
+recording_02_chew-bite_47.wav
+recording_02_chew-bite_48.wav
+recording_02_chew-bite_50.wav
+recording_02_chew-bite_51.wav
+recording_02_chew-bite_52.wav
+recording_02_chew-bite_54.wav
+recording_02_chew-bite_55.wav
+recording_02_chew-bite_57.wav
+recording_02_chew-bite_60.wav
+recording_02_chew-bite_61.wav
+recording_02_chew-bite_62.wav
+recording_02_chew-bite_63.wav
+recording_02_chew-bite_64.wav
+recording_02_chew-bite_65.wav
+recording_02_chew-bite_66.wav
+recording_02_chew-bite_67.wav
+recording_02_chew-bite_68.wav
+recording_02_chew-bite_69.wav
+recording_02_chew-bite_71.wav
+recording_02_chew-bite_72.wav
+recording_02_chew-bite_73.wav
+recording_02_chew-bite_74.wav
+recording_02_chew-bite_75.wav
+recording_02_chew-bite_76.wav
+recording_02_chew-bite_77.wav
+recording_02_chew-bite_79.wav
+recording_02_chew-bite_80.wav
+recording_02_chew-bite_87.wav
+recording_02_chew-bite_88.wav
+recording_02_chew-bite_90.wav
+recording_02_chew-bite_99.wav
+recording_02_chew_100.wav
+recording_02_chew_101.wav
+recording_02_chew_102.wav
+recording_02_chew_103.wav
+recording_02_chew_104.wav
+recording_02_chew_105.wav
+recording_02_chew_106.wav
+recording_02_chew_107.wav
+recording_02_chew_108.wav
+recording_02_chew_109.wav
+recording_02_chew_110.wav
+recording_02_chew_111.wav
+recording_02_chew_112.wav
+recording_02_chew_113.wav
+recording_02_chew_38.wav
+recording_02_chew_39.wav
+recording_02_chew_40.wav
+recording_02_chew_41.wav
+recording_02_chew_42.wav
+recording_02_chew_43.wav
+recording_02_chew_44.wav
+recording_02_chew_45.wav
+recording_02_chew_46.wav
+recording_02_chew_47.wav
+recording_02_chew_48.wav
+recording_02_chew_49.wav
+recording_02_chew_50.wav
+recording_02_chew_51.wav
+recording_02_chew_52.wav
+recording_02_chew_53.wav
+recording_02_chew_54.wav
+recording_02_chew_55.wav
+recording_02_chew_56.wav
+recording_02_chew_57.wav
+recording_02_chew_58.wav
+recording_02_chew_59.wav
+recording_02_chew_63.wav
+recording_02_chew_64.wav
+recording_02_chew_65.wav
+recording_02_chew_66.wav
+recording_02_chew_67.wav
+recording_02_chew_68.wav
+recording_02_chew_69.wav
+recording_02_chew_70.wav
+recording_02_chew_71.wav
+recording_02_chew_72.wav
+recording_02_chew_73.wav
+recording_02_chew_74.wav
+recording_02_chew_75.wav
+recording_02_chew_76.wav
+recording_02_chew_78.wav
+recording_02_chew_81.wav
+recording_02_chew_82.wav
+recording_02_chew_83.wav
+recording_02_chew_84.wav
+recording_02_chew_85.wav
+recording_02_chew_86.wav
+recording_02_chew_87.wav
+recording_02_chew_88.wav
+recording_02_chew_89.wav
+recording_02_chew_90.wav
+recording_02_chew_91.wav
+recording_02_chew_92.wav
+recording_02_chew_93.wav
+recording_02_chew_94.wav
+recording_02_chew_95.wav
+recording_02_chew_96.wav
+recording_02_chew_97.wav
+recording_02_chew_98.wav
+recording_02_chew_99.wav
+recording_01_bite_28.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_29.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_30.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_31.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_36.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_39.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_41.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_42.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_45.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_46.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_48.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_51.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_53.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_54.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_55.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_56.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_57.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_58.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_59.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_60.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_61.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_62.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_66.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_67.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_68.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_69.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_70.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_71.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_72.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_73.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_74.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_75.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_76.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_77.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_78.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_79.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_bite_80.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_48.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_49.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_50.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_51.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_52.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_53.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_54.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_55.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_56.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_57.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_58.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_59.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_60.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_61.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_62.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_63.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_64.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_65.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_66.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_67.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_69.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_73.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew-bite_83.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_100.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_48.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_49.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_50.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_51.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_52.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_53.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_54.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_55.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_56.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_57.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_58.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_59.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_60.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_61.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_62.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_63.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_64.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_65.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_66.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_67.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_68.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_69.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_70.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_71.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_72.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_73.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_74.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_75.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_76.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_77.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_78.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_79.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_80.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_81.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_82.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_83.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_84.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_85.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_86.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_87.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_88.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_89.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_90.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_91.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_92.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_93.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_94.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_95.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_96.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_97.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_98.wav - zero-size array to reduction operation maximum which has no identity
+recording_01_chew_99.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_114.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_115.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_44.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_46.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_47.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_48.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_53.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_59.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_60.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_61.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_62.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_75.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_76.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_77.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_78.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_79.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_80.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_82.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_bite_85.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_100.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_34.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_35.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_39.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_40.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_41.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_42.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_43.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_44.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_45.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_46.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_47.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_48.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_50.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_51.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_52.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_54.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_55.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_57.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_60.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_61.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_62.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_63.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_64.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_65.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_66.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_67.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_68.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_69.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_71.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_72.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_73.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_74.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_75.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_76.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_77.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_79.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_80.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_87.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_88.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_90.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew-bite_99.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_100.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_101.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_102.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_103.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_104.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_105.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_106.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_107.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_108.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_109.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_110.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_111.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_112.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_113.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_38.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_39.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_40.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_41.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_42.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_43.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_44.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_45.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_46.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_47.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_48.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_49.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_50.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_51.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_52.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_53.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_54.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_55.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_56.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_57.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_58.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_59.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_63.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_64.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_65.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_66.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_67.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_68.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_69.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_70.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_71.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_72.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_73.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_74.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_75.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_76.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_78.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_81.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_82.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_83.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_84.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_85.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_86.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_87.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_88.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_89.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_90.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_91.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_92.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_93.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_94.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_95.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_96.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_97.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_98.wav - zero-size array to reduction operation maximum which has no identity
+recording_02_chew_99.wav - zero-size array to reduction operation maximum which has no identity
